@@ -27,5 +27,5 @@
 
 ## Como usar?
 
-1. Run `npm install` ou `yarn install`.<br />
-2. Run `npm start` ou `yarn start` e acesse `http://localhost:3000`.<br />
+1. Run `npm install` or `yarn install`.<br />
+2. Run `npm start` or `yarn start` and access `http://localhost:3000`.<br />
