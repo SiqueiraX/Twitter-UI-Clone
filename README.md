@@ -25,7 +25,7 @@
 - Styled Components
 - TypeScript
 
-## Como usar?
+## Usage
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `npm start` or `yarn start` and access `http://localhost:3000`.<br />
